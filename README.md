@@ -5,7 +5,7 @@ This is a PyTorch/GPU implementation of our paper [Predicting Lymph Node Metasta
 This paper has been accepted by Modern Pathology in August 2023! 
 
 <p align="center">
-  <img src="https://github.com/miccaiif/LNMNet/blob/main/Figure%201.tif" width="720">
+  <img src="https://github.com/miccaiif/LNMNet/blob/main/work_flow.jpg" width="720">
 </p>
 
 ### For training
@@ -16,6 +16,18 @@ This paper has been accepted by Modern Pathology in August 2023!
 
 ### For attention-based visualization
 * Please refer to the [attention visualization](https://github.com/miccaiif/LNMNet/blob/main/features_found.py) for localization of key instances.
+
+<p align="center">
+  <img src="https://github.com/miccaiif/LNMNet/blob/main/framework.jpg" width="720">
+</p>
+
+<p align="center">
+  <img src="https://github.com/miccaiif/LNMNet/blob/main/ROC_curve.jpg" width="720">
+</p>
+
+<p align="center">
+  <img src="https://github.com/miccaiif/LNMNet/blob/main/attention.png" width="720">
+</p>
 
 ### Citation
 If this work is helpful to you, please cite it as:
@@ -29,6 +41,5 @@ If this work is helpful to you, please cite it as:
   publisher={Elsevier}
 }
 ```
-
 ### Contact Information
 If you have any question, please email to me [lhqu20@fudan.edu.cn](lhqu20@fudan.edu.cn).
