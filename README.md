@@ -11,19 +11,19 @@ This paper has been accepted by Modern Pathology in August 2023!
 ### For training
 * Please refer to the [training code](https://github.com/miccaiif/LNMNet/blob/main/train_load_by_epoch.py) for model training.
 
-### For inference
-* Please refer to the [testing code](https://github.com/miccaiif/LNMNet/blob/main/fun_load_by_epoch_main.py) for model inference.
-
-### For attention-based visualization
-* Please refer to the [attention visualization](https://github.com/miccaiif/LNMNet/blob/main/features_found.py) for localization of key instances.
-
 <p align="center">
   <img src="https://github.com/miccaiif/LNMNet/blob/main/framework.jpg" width="720">
 </p>
 
+### For inference
+* Please refer to the [testing code](https://github.com/miccaiif/LNMNet/blob/main/fun_load_by_epoch_main.py) for model inference.
+
 <p align="center">
   <img src="https://github.com/miccaiif/LNMNet/blob/main/ROC_curve.jpg" width="720">
 </p>
+
+### For attention-based visualization
+* Please refer to the [attention visualization](https://github.com/miccaiif/LNMNet/blob/main/features_found.py) for localization of key instances.
 
 <p align="center">
   <img src="https://github.com/miccaiif/LNMNet/blob/main/attention.png" width="720">
