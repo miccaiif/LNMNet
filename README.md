@@ -5,7 +5,7 @@ This is a PyTorch/GPU implementation of our paper [Predicting Lymph Node Metasta
 This paper has been accepted by Modern Pathology in August 2023! 
 
 <p align="center">
-  <img src="https://github.com/miccaiif/TransMEF/blob/main/method.png" width="720">
+  <img src="https://github.com/miccaiif/LNMNet/blob/main/Figure%201.tif" width="720">
 </p>
 
 ### For training
