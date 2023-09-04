@@ -1,8 +1,6 @@
 # :pig2: LNMNet
 
-This is a PyTorch/GPU implementation of our paper [Predicting Lymph Node Metastasis from Primary Cervical Squamous Cell Carcinoma Based on Deep Learning in Histopathological Images](https://www.sciencedirect.com/science/article/abs/pii/S0893395223002211).
-
-This paper has been accepted by Modern Pathology in August 2023! 
+This is a PyTorch/GPU implementation of our Modern Pathology 2023 paper [Predicting Lymph Node Metastasis from Primary Cervical Squamous Cell Carcinoma Based on Deep Learning in Histopathological Images](https://www.sciencedirect.com/science/article/abs/pii/S0893395223002211).
 
 <p align="center">
   <img src="https://github.com/miccaiif/LNMNet/blob/main/work_flow.jpg" width="720">
